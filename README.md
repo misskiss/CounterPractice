@@ -1,2 +1,0 @@
-# CounterPractice
-Created with CodeSandbox
