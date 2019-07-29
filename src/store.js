@@ -1,7 +1,7 @@
 import { createStore } from "redux";
 
 // what should shape of store be
-const initialState = { counter: 2 };
+const initialState = { counter: 1 };
 
 // what action should happen next
 const INCREMENT = "INCREMENT";

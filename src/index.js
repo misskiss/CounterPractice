@@ -11,8 +11,8 @@ function App() {
   return (
     <Provider store={store}>
       <div className="App">
-        <h1>Hello Finn</h1>
-        <h2>Start editing to see some magic happen!</h2>
+        <h1>Michelle's Quick Counter</h1>
+        <h2>Start here to count!</h2>
         <Counter />
       </div>
     </Provider>
